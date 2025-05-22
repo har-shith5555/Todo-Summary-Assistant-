@@ -37,4 +37,3 @@ Persistent Storage: Store to-dos in a Supabase PostgreSQL database.
 
 
 
-MIT License
